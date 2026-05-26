@@ -2,7 +2,7 @@
 
 > **Student Researcher & Data Analyst specializing in Scientific Datasets, AI Module Testing, and Product Design Workflows.**  
 > Co-Founder of **[Viz-Atlas](https://vizatlas.space)** — a decentralized cosmic registration catalog mapped on the Polygon blockchain.
-> **Created in Ukraine 🇺🇦**
+> **Created in Ukraine UA**
 
 ---
 
