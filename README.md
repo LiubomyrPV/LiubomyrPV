@@ -20,11 +20,6 @@ I actively participate in high-tech projects to master the synergy between **Dat
 * **NASA Exoplanet Archive Integration:** Data sourcing, analysis, and cleaning of cosmic planet parameters.
 * **SIMBAD Astronomical Database:** Structuring TAP (Table Access Protocol) schemas and verifying celestial coordinates.
 
-### 🧪 Advanced AI & UI/UX Orchestration
-* **AI Module Verification:** Testing natural language parsing outputs generated via Gemini integration.
-* **Interactive UI/UX testing:** Fine-tuning React + Three.js responsiveness for multi-planetary system orbits.
-* **Educational Content Design:** Bridging Kepler's laws of orbital mechanics into high-school and university-level simulation materials.
-
 ---
 
 ## 🛠️ My first steps and introduction to technology (specialized Technical Profile)
