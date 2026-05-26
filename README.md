@@ -27,10 +27,10 @@ I actively participate in high-tech projects to master the synergy between **Dat
 
 ---
 
-## 🛠️ Specialized Technical Profile
+## 🛠️ My first steps and introduction to technology (specialized Technical Profile)
 
 * **Scientific Data Integration:** NASA TAP / ADQL Queries, CDS Strasbourg Simbad database parsing
-* **Core Product Environments:** Git, GitHub Collaboration, UI/UX Mocking (Figma)
+* **Core Product Environments:** Git, GitHub Collaboration, UI/UX Mocking
 * **Technologies Explored:** Basic JavaScript/TypeScript, Smart Contract deployment verifications
 * **AI Systems Interaction:** Advanced Prompt Engineering, AI Agent testing, API payload analysis
 
