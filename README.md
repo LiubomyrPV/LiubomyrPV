@@ -7,7 +7,7 @@
 ---
 
 ## 🔭 Academic & Research Focus
-I actively participate in high-tech projects to master the synergy between **Data Science, AI integrations, and Web3 Protocols**. My goal is to enter a leading Higher Educational Institution specializing in **IT, Software Engineering, or Artificial Intelligence (AI)** to further develop decentralized scientific tools.
+I actively participate in high-tech projects to master the synergy between **Data Science, AI integrations, and Web3 Protocols**. My goal is to enroll in a leading higher education institution specializing in **IT, software engineering, or artificial intelligence (AI)** in 2026 to further develop decentralized scientific tools.
 
 * **On-Chain Co-Authorship:** Permanently recorded as `FOUNDER_SECONDARY` in the official Polygon Smart Contract: [`0x013164EA0570675650051FA302992f64c5c258d9`](https://polygonscan.com/address/0x013164EA0570675650051FA302992f64c5c258d9)
 * **Contributions Portfolio:** View my active data and research mapping at [LiubomyrPV/viz-atlas-research](https://github.com/LiubomyrPV/viz-atlas-research) *(examples of scientific astronomy queries and protocol outlines)*.
@@ -33,7 +33,7 @@ I actively participate in high-tech projects to master the synergy between **Dat
 
 ## 🗺️ Academic Interests & Goals
 * 🚀 **Deep Tech Startups:** Modern architectures combining Web3 on-chain registers and real-time simulations.
-* 🎓 **Education Path:** Seeking to join a high-tier technical university to major in **Computer Science / AI System Architecture**.
+* 🎓 **Educational path:** I aspire to enter a highly qualified technical university in 2026 with a major in **Informatics / Artificial Intelligence Systems Architecture**.
 
 ---
 
